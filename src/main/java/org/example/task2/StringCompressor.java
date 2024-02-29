@@ -17,7 +17,7 @@ public class StringCompressor {
                 currentChar = s.charAt(i);
                 charCount = 1;
             }
-            if (i == s.length()-1) {
+            if (i == s.length() - 1) {
                 builder.append(currentChar);
                 builder.append(charCount);
             }
@@ -29,6 +29,6 @@ public class StringCompressor {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the string for compression:\n>>> ");
         String s = scanner.nextLine();
-        System.out.println("String after compression - "+compressString(s));
+        System.out.println("String after compression - " + compressString(s));
     }
 }

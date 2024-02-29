@@ -6,7 +6,7 @@ import java.util.Set;
 
 public class StringPermutation {
 
-    public static boolean isPermuted(String s1, String s2){
+    public static boolean isPermuted(String s1, String s2) {
         Set<Character> stringCharacters1 = new HashSet<>();
         for (char ch : s1.toCharArray()) {
             stringCharacters1.add(ch);

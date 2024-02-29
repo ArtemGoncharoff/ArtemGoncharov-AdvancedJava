@@ -25,6 +25,6 @@ public class RepeatedCharacter {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the string:\n>>> ");
         String s = scanner.nextLine();
-        System.out.println("The first most often character in this string is "+findMostRepeatedCharacter(s));
+        System.out.println("The first most often character in this string is " + findMostRepeatedCharacter(s));
     }
 }

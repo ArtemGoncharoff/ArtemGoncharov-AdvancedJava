@@ -6,7 +6,6 @@ public class BracketsValidator {
 
     public static boolean validateBrackets(String s) {
         LinkedList<Character> list = new LinkedList<>();
-
         for (char c : s.toCharArray()) {
             if (c == '(' || c == '[' || c == '{') {
                 list.addLast(c);
@@ -15,7 +14,6 @@ public class BracketsValidator {
                 if (list.isEmpty()) {
                     return false;
                 }
-
                 char openBracket = list.removeLast();
                 if ((c == ')' && openBracket != '(') ||
                         (c == ']' && openBracket != '[') ||
@@ -24,7 +22,6 @@ public class BracketsValidator {
                 }
             }
         }
-
         return list.isEmpty();
     }
 
@@ -32,8 +29,8 @@ public class BracketsValidator {
         String testString1 = "{[()]}";
         String testString2 = "{[(])}";
         String testString3 = "{{{{}}}}";
-        System.out.println(validateBrackets(testString1));
-        System.out.println(validateBrackets(testString2));
-        System.out.println(validateBrackets(testString3));
+        System.out.println("testString1 was " + (validateBrackets(testString1) ? "validated" : "not validated"));
+        System.out.println("testString2 was " + (validateBrackets(testString2) ? "validated" : "not validated"));
+        System.out.println("testString3 was " + (validateBrackets(testString3) ? "validated" : "not validated"));
     }
 }

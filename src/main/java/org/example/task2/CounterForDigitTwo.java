@@ -8,7 +8,9 @@ public class CounterForDigitTwo {
         int count = 0;
         String stringNumber = String.valueOf(number);
         for (char digit : stringNumber.toCharArray()) {
-            if (digit == '2') count++;
+            if (digit == '2') {
+                count++;
+            }
         }
         return count;
     }
