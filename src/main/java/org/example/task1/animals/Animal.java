@@ -1,4 +1,4 @@
-package org.example.animals;
+package org.example.task1.animals;
 
 public class Animal {
 

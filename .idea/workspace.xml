@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2718de05-72fa-4821-90ed-0a6624e9fba1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DuplicateRemover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PolymorphismDemonstrator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DuplicateRemover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/DuplicateRemover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PolymorphismDemonstrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/PolymorphismDemonstrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/animals/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/animals/Dolphin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/animals/Dolphin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/animals/Eagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/animals/Eagle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/animals/Elephant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/animals/Elephant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/animals/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/animals/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/animals/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/animals/Tiger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +41,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayIterator.executor": "Run",
+    "Application.BracketsValidator.executor": "Run",
+    "Application.CounterForDigitTwo.executor": "Run",
     "Application.DuplicateRemover.executor": "Run",
     "Application.PolymorphismDemonstrator.executor": "Run",
+    "Application.RepeatedCharacter.executor": "Run",
+    "Application.StringCompressor.executor": "Run",
+    "Application.StringPermutation.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "workBranch",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/dunice/IdeaProjects/IndividualTasks/src/main/java/org/example/task1",
     "onboarding.tips.debug.path": "/home/dunice/IdeaProjects/IndividualTasks/src/main/java/org/example/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/task1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

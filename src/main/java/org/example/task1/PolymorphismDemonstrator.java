@@ -1,7 +1,6 @@
-package org.example;
+package org.example.task1;
 
-import org.example.animals.*;
-
+import org.example.task1.animals.*;
 import java.util.ArrayList;
 
 public class PolymorphismDemonstrator {
