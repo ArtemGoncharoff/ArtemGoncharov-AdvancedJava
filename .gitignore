@@ -15,5 +15,10 @@ IntelliJ IDEA
 *.iws
 *.iml
 *.ipr
+workspace.xml
+uiDesigner.xml
+encodings.xml
+checkstyle-idea.xml
+IndividualTasks.iml
 
 application-*.properties
