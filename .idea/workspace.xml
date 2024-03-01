@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2718de05-72fa-4821-90ed-0a6624e9fba1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task1/PolymorphismDemonstrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/PolymorphismDemonstrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task1/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/animals/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/BracketsAdder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/BracketsAdder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/BracketsValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/BracketsValidator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/CounterForDigitTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/CounterForDigitTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/DuplicateRemover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/DuplicateRemover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/PairNumberCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/PairNumberCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/RepeatedCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/RepeatedCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/StringCompressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/StringCompressor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/StringPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/StringPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task3/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task3/Students.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,12 +47,14 @@
     "Application.BracketsValidator.executor": "Run",
     "Application.CounterForDigitTwo.executor": "Run",
     "Application.DuplicateRemover.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.PairNumberCalculator.executor": "Run",
     "Application.PolymorphismDemonstrator.executor": "Run",
     "Application.RepeatedCharacter.executor": "Run",
     "Application.SpacesRemover.executor": "Run",
     "Application.StringCompressor.executor": "Run",
     "Application.StringPermutation.executor": "Run",
+    "Application.Students.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -87,5 +90,16 @@
       <updated>1709117287519</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

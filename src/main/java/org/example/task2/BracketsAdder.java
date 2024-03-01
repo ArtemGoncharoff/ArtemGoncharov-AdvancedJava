@@ -11,6 +11,9 @@ public class BracketsAdder {
         if (s.length() % 2 != 0) {
             builder.insert(builder.length() / 2, "(" + s.charAt(s.length() / 2) + ")");
         }
+        else {
+            builder.insert(builder.length() / 2, "()");
+        }
         return builder.toString();
     }
 

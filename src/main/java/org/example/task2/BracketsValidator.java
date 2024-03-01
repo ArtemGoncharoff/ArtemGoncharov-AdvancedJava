@@ -1,6 +1,7 @@
 package org.example.task2;
 
 import java.util.LinkedList;
+import java.util.Scanner;
 
 public class BracketsValidator {
 
@@ -26,11 +27,9 @@ public class BracketsValidator {
     }
 
     public static void main(String[] args) {
-        String testString1 = "{[()]}";
-        String testString2 = "{[(])}";
-        String testString3 = "{{{{}}}}";
-        System.out.println("testString1 was " + (validateBrackets(testString1) ? "validated" : "not validated"));
-        System.out.println("testString2 was " + (validateBrackets(testString2) ? "validated" : "not validated"));
-        System.out.println("testString3 was " + (validateBrackets(testString3) ? "validated" : "not validated"));
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter the string consisting of brackets:\n>>> ");
+        String s = scanner.nextLine();
+        System.out.println("testString1 was " + (validateBrackets(s) ? "validated" : "not validated"));
     }
 }

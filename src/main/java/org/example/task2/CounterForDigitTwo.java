@@ -4,13 +4,11 @@ import java.util.Scanner;
 
 public class CounterForDigitTwo {
 
-    public static int count(long number) {
+    public static int countTwos(int n) {
         int count = 0;
-        String stringNumber = String.valueOf(number);
-        for (char digit : stringNumber.toCharArray()) {
-            if (digit == '2') {
-                count++;
-            }
+        for (int i = 0; i <= n; i++) {
+            for (char number : String.valueOf(i).toCharArray())
+                if (number == '2') count++;
         }
         return count;
     }
@@ -24,6 +22,6 @@ public class CounterForDigitTwo {
         } catch (NumberFormatException e) {
             System.out.println("You entered invalid value, please try again");
         }
-        System.out.printf("The quantity of digits two in the number %d is %d", number, count(number));
+        System.out.printf("The quantity of digits two in the numbers from 0 to %d is %d", number, countTwos(number));
     }
 }

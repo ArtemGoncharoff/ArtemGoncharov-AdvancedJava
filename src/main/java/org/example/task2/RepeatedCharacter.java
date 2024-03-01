@@ -12,13 +12,10 @@ public class RepeatedCharacter {
         char mostOftenChar = 0;
         for (char c : s.toCharArray()) {
             int count = charsFrequency.getOrDefault(c, 0) + 1;
+            if (count == 2) return c;
             charsFrequency.put(c, count);
-            if (count > maxFrequency || (count == maxFrequency && s.indexOf(c) < s.indexOf(mostOftenChar))) {
-                maxFrequency = count;
-                mostOftenChar = c;
-            }
         }
-        return mostOftenChar;
+        return s.charAt(0);
     }
 
     public static void main(String[] args) {
