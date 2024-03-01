@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2718de05-72fa-4821-90ed-0a6624e9fba1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task1/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/animals/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/BracketsAdder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/BracketsAdder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/BracketsValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/BracketsValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/CounterForDigitTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/CounterForDigitTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/DuplicateRemover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/DuplicateRemover.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/PairNumberCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/PairNumberCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/RepeatedCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/RepeatedCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task3/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task3/Students.java" afterDir="false" />
-    </list>
+    <list default="true" id="2718de05-72fa-4821-90ed-0a6624e9fba1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,34 +29,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayIterator.executor": "Run",
-    "Application.BracketsAdder.executor": "Run",
-    "Application.BracketsValidator.executor": "Run",
-    "Application.CounterForDigitTwo.executor": "Run",
-    "Application.DuplicateRemover.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.PairNumberCalculator.executor": "Run",
-    "Application.PolymorphismDemonstrator.executor": "Run",
-    "Application.RepeatedCharacter.executor": "Run",
-    "Application.SpacesRemover.executor": "Run",
-    "Application.StringCompressor.executor": "Run",
-    "Application.StringPermutation.executor": "Run",
-    "Application.Students.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "workBranch",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/dunice/Downloads/checkstyle-ibs-dunice.xml",
-    "onboarding.tips.debug.path": "/home/dunice/IdeaProjects/IndividualTasks/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayIterator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BracketsAdder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BracketsValidator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CounterForDigitTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicateRemover.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PairNumberCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PolymorphismDemonstrator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RepeatedCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpacesRemover.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringCompressor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringPermutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Students.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;workBranch&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/dunice/Downloads/checkstyle-ibs-dunice.xml&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/dunice/IdeaProjects/IndividualTasks/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/org/example/task1" />
