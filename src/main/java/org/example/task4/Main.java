@@ -1,6 +1,10 @@
 package org.example.task4;
 
-import java.util.*;
+import java.util.Calendar;
+import java.util.Comparator;
+import java.util.GregorianCalendar;
+import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 public class Main {
@@ -43,13 +47,13 @@ public class Main {
         System.out.println(employees.stream().mapToInt(Employee::getSalary).sum());
         System.out.println("________________________________________________________________");
         System.out.println("Printing the average salary of employees");
-        System.out.println((int)employees.stream().mapToInt(Employee::getSalary).average().getAsDouble());
+        System.out.println((int) employees.stream().mapToInt(Employee::getSalary).average().getAsDouble());
         System.out.println("________________________________________________________________");
         System.out.println("Grouping employees by first letter of name");
         Map<String, List<Employee>> groups = employees.stream().collect(Collectors.groupingBy(employee -> employee.getName().substring(0, 1)));
         for (Map.Entry pair : groups.entrySet()) {
             System.out.println(pair.getKey());
-            for (Employee e : (List<Employee>)pair.getValue()) {
+            for (Employee e : (List<Employee>) pair.getValue()) {
                 System.out.println(e);
             }
         }

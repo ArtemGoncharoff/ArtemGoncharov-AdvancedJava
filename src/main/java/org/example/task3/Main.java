@@ -4,8 +4,8 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Main {
-    public static void main(String[] args) {
 
+    public static void main(String[] args) {
         List<Students> students = List.of( new Students("Vasiliy", 16, Students.Sex.MAN), new Students("Petr", 23, Students.Sex.MAN),
                 new Students("Elena", 42, Students.Sex.WOMEN), new Students("Ivan", 69, Students.Sex.MAN), new Students("Alexey", 38, Students.Sex.MAN),
                 new Students("Artem", 25, Students.Sex.MAN), new Students("Ekaterina", 30, Students.Sex.WOMEN));

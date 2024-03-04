@@ -34,6 +34,6 @@ public class PairNumberCalculator {
             }
             s = scanner.next();
         }
-        System.out.println("The number of pairs in the number series you entered: "+calculatePairNumber(data.toArray(new Integer[0])));
+        System.out.println("The number of pairs in the number series you entered: " + calculatePairNumber(data.toArray(new Integer[0])));
     }
 }

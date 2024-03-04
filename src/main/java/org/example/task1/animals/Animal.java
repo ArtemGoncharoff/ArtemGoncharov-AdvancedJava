@@ -7,8 +7,6 @@ public class Animal {
     private int numberOfLimbs = 4;
     private boolean isWarmBlooded = true;
 
-
-
     public void move() {
         System.out.println("The animal moved");
     }

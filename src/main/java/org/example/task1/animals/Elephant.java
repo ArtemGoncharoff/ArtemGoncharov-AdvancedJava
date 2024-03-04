@@ -1,6 +1,7 @@
 package org.example.task1.animals;
 
 public class Elephant extends Animal {
+
     @Override
     public void move() {
         System.out.println("The elephant ran 1000 meters ");

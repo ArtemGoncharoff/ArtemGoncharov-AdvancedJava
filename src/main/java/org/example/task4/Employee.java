@@ -1,8 +1,9 @@
 package org.example.task4;
 
+import java.util.GregorianCalendar;
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
-import java.util.GregorianCalendar;
 
 @Data
 @AllArgsConstructor

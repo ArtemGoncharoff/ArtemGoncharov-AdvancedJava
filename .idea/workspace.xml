@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2718de05-72fa-4821-90ed-0a6624e9fba1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task1/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/animals/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task1/animals/Eagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/animals/Eagle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/BracketsAdder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/BracketsAdder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/CounterForDigitTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/CounterForDigitTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/DuplicateRemover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/DuplicateRemover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/PairNumberCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/PairNumberCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/RepeatedCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/RepeatedCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task4/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task4/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task4/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

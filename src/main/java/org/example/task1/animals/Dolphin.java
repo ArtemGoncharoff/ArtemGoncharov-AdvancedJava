@@ -1,6 +1,7 @@
 package org.example.task1.animals;
 
 public class Dolphin extends Animal {
+
     @Override
     public void move() {
         System.out.println("The dolphin swam 4 km");

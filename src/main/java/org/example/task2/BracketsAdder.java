@@ -3,6 +3,7 @@ package org.example.task2;
 import java.util.Scanner;
 
 public class BracketsAdder {
+
     public static String addBrackets(String s) {
         StringBuilder builder = new StringBuilder();
         for (int i = 0; i < s.length() / 2; i++) {

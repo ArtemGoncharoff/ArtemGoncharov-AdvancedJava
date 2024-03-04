@@ -22,6 +22,6 @@ public class DuplicateRemover {
             s = scanner.nextLine();
         }
         Collection<String> collection = removeDuplicates(data);
-        System.out.println("Collection after removing duplicates:\n"+collection.toString());
+        System.out.println("Collection after removing duplicates:\n" + collection.toString());
     }
 }

@@ -7,8 +7,11 @@ public class CounterForDigitTwo {
     public static int countTwos(int n) {
         int count = 0;
         for (int i = 0; i <= n; i++) {
-            for (char number : String.valueOf(i).toCharArray())
-                if (number == '2') count++;
+            for (char number : String.valueOf(i).toCharArray()) {
+                if (number == '2') {
+                    count++;
+                }
+            }
         }
         return count;
     }

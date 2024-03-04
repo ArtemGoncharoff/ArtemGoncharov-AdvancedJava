@@ -3,6 +3,7 @@ package org.example.task2;
 import java.util.Scanner;
 
 public class StringCompressor {
+
     public static String compressString(String s) {
         StringBuilder builder = new StringBuilder();
         int charCount = 1;
